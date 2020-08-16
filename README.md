@@ -3,4 +3,4 @@
 
 Repositório criado durante uma aula ao vivo, do Guanabara.
 
-Essa linha eu adicionei reotamente, diretamente pelo GitHub. Impressionante!
+Essa linha eu adicionei remotamente, diretamente pelo GitHub. Impressionante!
